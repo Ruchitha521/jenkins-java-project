@@ -30,7 +30,7 @@
             <input type="checkbox" id="remember-me" />
             <label for="remember-me">Remember me</label>
           </div>
-          <a href="#">do not ask any help ok !</a>
+          <a href="#">do not ask any help ok</a>
         </div>
       </form>
       <p>New to NNNNNNNNNNNetflix? <a href="#">Lets join uxxp now</a></p>
